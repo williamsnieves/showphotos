@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ShowPhotos</string>
+
+    <string name="activity_one">I am in the first activity</string>
+    <string name="activity_two">I am in the second activity</string>
+    <string name="activity_three">I am in the third activity</string>
+    <string name="name_navdrawer">Username</string>
+    <string name="email_navdrawer">email@something.com</string>
+    <string name="photos_item">photos</string>
+    <string name="users_item">users</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user">UserActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
